@@ -10,9 +10,6 @@ Nous avons utilisé un dataset de parties de StarCraft 2 comprenant diverses car
 ## Résultats
 Nous avons obtenu une précision de 85% sur l'échantillon de test. Voici une capture d'écran des résultats finaux sur Kaggle :
 
-## Membres du Groupe
-Hamza totss
-
 ## Licence
 Ce projet est sous licence GNU GPL v3.
 
